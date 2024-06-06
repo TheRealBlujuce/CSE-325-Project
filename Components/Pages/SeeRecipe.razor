@@ -1,0 +1,11 @@
+@page "/recipe/{recipeId}"
+@using Google.Cloud.Firestore
+@using System.ComponentModel.DataAnnotations
+@rendermode InteractiveServer
+
+<h3>My recipe: @RecipeId</h3>
+
+@code {
+    [Parameter]
+    public string RecipeId { get; set; }
+}

@@ -1,0 +1,224 @@
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Team07/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Team07/bin/Debug/net8.0/appsettings.json
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Team07/bin/Debug/net8.0/Team07.staticwebassets.runtime.json
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Team07/bin/Debug/net8.0/Team07.exe
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Team07/bin/Debug/net8.0/Team07.deps.json
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Team07/bin/Debug/net8.0/Team07.runtimeconfig.json
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Team07/bin/Debug/net8.0/Team07.dll
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Team07/bin/Debug/net8.0/Team07.pdb
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Team07/obj/Debug/net8.0/Team07.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Team07/obj/Debug/net8.0/Team07.AssemblyInfoInputs.cache
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Team07/obj/Debug/net8.0/Team07.AssemblyInfo.cs
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Team07/obj/Debug/net8.0/Team07.csproj.CoreCompileInputs.cache
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Team07/obj/Debug/net8.0/Team07.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Team07/obj/Debug/net8.0/Team07.sourcelink.json
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Team07/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Team07/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Team07/obj/Debug/net8.0/staticwebassets/msbuild.Team07.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Team07/obj/Debug/net8.0/staticwebassets/msbuild.build.Team07.props
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Team07/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Team07.props
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Team07/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Team07.props
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Team07/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Team07/obj/Debug/net8.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Team07/obj/Debug/net8.0/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Team07/obj/Debug/net8.0/scopedcss/bundle/Team07.styles.css
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Team07/obj/Debug/net8.0/scopedcss/projectbundle/Team07.bundle.scp.css
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Team07/obj/Debug/net8.0/Team07.dll
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Team07/obj/Debug/net8.0/refint/Team07.dll
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Team07/obj/Debug/net8.0/Team07.pdb
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Team07/obj/Debug/net8.0/Team07.genruntimeconfig.cache
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Team07/obj/Debug/net8.0/ref/Team07.dll
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Joseph_Branch/CSE 325-Team07/obj/Debug/net8.0/Team07.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Joseph_Branch/CSE 325-Team07/obj/Debug/net8.0/Team07.AssemblyInfoInputs.cache
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Joseph_Branch/CSE 325-Team07/obj/Debug/net8.0/Team07.AssemblyInfo.cs
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Joseph_Branch/CSE 325-Team07/obj/Debug/net8.0/Team07.csproj.CoreCompileInputs.cache
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Joseph_Branch/CSE 325-Team07/obj/Debug/net8.0/Team07.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Joseph_Branch/CSE 325-Team07/obj/Debug/net8.0/Team07.sourcelink.json
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Joseph_Branch/CSE 325-Team07/obj/Debug/net8.0/Team07.dll
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Joseph_Branch/CSE 325-Team07/obj/Debug/net8.0/refint/Team07.dll
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Joseph_Branch/CSE 325-Team07/obj/Debug/net8.0/Team07.pdb
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Joseph_Branch/CSE 325-Team07/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Joseph_Branch/CSE 325-Team07/bin/Debug/net8.0/appsettings.json
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Joseph_Branch/CSE 325-Team07/bin/Debug/net8.0/Team07.staticwebassets.runtime.json
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Joseph_Branch/CSE 325-Team07/bin/Debug/net8.0/Team07.exe
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Joseph_Branch/CSE 325-Team07/bin/Debug/net8.0/Team07.deps.json
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Joseph_Branch/CSE 325-Team07/bin/Debug/net8.0/Team07.runtimeconfig.json
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Joseph_Branch/CSE 325-Team07/bin/Debug/net8.0/Team07.dll
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Joseph_Branch/CSE 325-Team07/bin/Debug/net8.0/Team07.pdb
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Joseph_Branch/CSE 325-Team07/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Joseph_Branch/CSE 325-Team07/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Joseph_Branch/CSE 325-Team07/obj/Debug/net8.0/staticwebassets/msbuild.Team07.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Joseph_Branch/CSE 325-Team07/obj/Debug/net8.0/staticwebassets/msbuild.build.Team07.props
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Joseph_Branch/CSE 325-Team07/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Team07.props
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Joseph_Branch/CSE 325-Team07/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Team07.props
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Joseph_Branch/CSE 325-Team07/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Joseph_Branch/CSE 325-Team07/obj/Debug/net8.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Joseph_Branch/CSE 325-Team07/obj/Debug/net8.0/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Joseph_Branch/CSE 325-Team07/obj/Debug/net8.0/scopedcss/bundle/Team07.styles.css
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Joseph_Branch/CSE 325-Team07/obj/Debug/net8.0/scopedcss/projectbundle/Team07.bundle.scp.css
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Joseph_Branch/CSE 325-Team07/obj/Debug/net8.0/Team07.genruntimeconfig.cache
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Joseph_Branch/CSE 325-Team07/obj/Debug/net8.0/ref/Team07.dll
+/Users/willemmarda/CSE 325-Team07/bin/Debug/net8.0/appsettings.Development.json
+/Users/willemmarda/CSE 325-Team07/bin/Debug/net8.0/appsettings.json
+/Users/willemmarda/CSE 325-Team07/bin/Debug/net8.0/Team07.staticwebassets.runtime.json
+/Users/willemmarda/CSE 325-Team07/bin/Debug/net8.0/Team07
+/Users/willemmarda/CSE 325-Team07/bin/Debug/net8.0/Team07.deps.json
+/Users/willemmarda/CSE 325-Team07/bin/Debug/net8.0/Team07.runtimeconfig.json
+/Users/willemmarda/CSE 325-Team07/bin/Debug/net8.0/Team07.dll
+/Users/willemmarda/CSE 325-Team07/bin/Debug/net8.0/Team07.pdb
+/Users/willemmarda/CSE 325-Team07/obj/Debug/net8.0/Team07.GeneratedMSBuildEditorConfig.editorconfig
+/Users/willemmarda/CSE 325-Team07/obj/Debug/net8.0/Team07.AssemblyInfoInputs.cache
+/Users/willemmarda/CSE 325-Team07/obj/Debug/net8.0/Team07.AssemblyInfo.cs
+/Users/willemmarda/CSE 325-Team07/obj/Debug/net8.0/Team07.csproj.CoreCompileInputs.cache
+/Users/willemmarda/CSE 325-Team07/obj/Debug/net8.0/Team07.MvcApplicationPartsAssemblyInfo.cache
+/Users/willemmarda/CSE 325-Team07/obj/Debug/net8.0/Team07.sourcelink.json
+/Users/willemmarda/CSE 325-Team07/obj/Debug/net8.0/staticwebassets.build.json
+/Users/willemmarda/CSE 325-Team07/obj/Debug/net8.0/staticwebassets.development.json
+/Users/willemmarda/CSE 325-Team07/obj/Debug/net8.0/staticwebassets/msbuild.Team07.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/willemmarda/CSE 325-Team07/obj/Debug/net8.0/staticwebassets/msbuild.build.Team07.props
+/Users/willemmarda/CSE 325-Team07/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Team07.props
+/Users/willemmarda/CSE 325-Team07/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Team07.props
+/Users/willemmarda/CSE 325-Team07/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/willemmarda/CSE 325-Team07/obj/Debug/net8.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
+/Users/willemmarda/CSE 325-Team07/obj/Debug/net8.0/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
+/Users/willemmarda/CSE 325-Team07/obj/Debug/net8.0/scopedcss/bundle/Team07.styles.css
+/Users/willemmarda/CSE 325-Team07/obj/Debug/net8.0/scopedcss/projectbundle/Team07.bundle.scp.css
+/Users/willemmarda/CSE 325-Team07/obj/Debug/net8.0/Team07.dll
+/Users/willemmarda/CSE 325-Team07/obj/Debug/net8.0/refint/Team07.dll
+/Users/willemmarda/CSE 325-Team07/obj/Debug/net8.0/Team07.pdb
+/Users/willemmarda/CSE 325-Team07/obj/Debug/net8.0/Team07.genruntimeconfig.cache
+/Users/willemmarda/CSE 325-Team07/obj/Debug/net8.0/ref/Team07.dll
+/Users/willemmarda/CSE 325-Team07/bin/Debug/net8.0/cse325-492f4-firebase-adminsdk-q4c0s-7156a52540.json
+/Users/willemmarda/CSE 325-Team07/bin/Debug/net8.0/Google.Api.CommonProtos.dll
+/Users/willemmarda/CSE 325-Team07/bin/Debug/net8.0/Google.Api.Gax.dll
+/Users/willemmarda/CSE 325-Team07/bin/Debug/net8.0/Google.Api.Gax.Grpc.dll
+/Users/willemmarda/CSE 325-Team07/bin/Debug/net8.0/Google.Apis.dll
+/Users/willemmarda/CSE 325-Team07/bin/Debug/net8.0/Google.Apis.Auth.dll
+/Users/willemmarda/CSE 325-Team07/bin/Debug/net8.0/Google.Apis.Core.dll
+/Users/willemmarda/CSE 325-Team07/bin/Debug/net8.0/Google.Cloud.Firestore.dll
+/Users/willemmarda/CSE 325-Team07/bin/Debug/net8.0/Google.Cloud.Firestore.V1.dll
+/Users/willemmarda/CSE 325-Team07/bin/Debug/net8.0/Google.Cloud.Location.dll
+/Users/willemmarda/CSE 325-Team07/bin/Debug/net8.0/Google.LongRunning.dll
+/Users/willemmarda/CSE 325-Team07/bin/Debug/net8.0/Google.Protobuf.dll
+/Users/willemmarda/CSE 325-Team07/bin/Debug/net8.0/Grpc.Auth.dll
+/Users/willemmarda/CSE 325-Team07/bin/Debug/net8.0/Grpc.Core.Api.dll
+/Users/willemmarda/CSE 325-Team07/bin/Debug/net8.0/Grpc.Net.Client.dll
+/Users/willemmarda/CSE 325-Team07/bin/Debug/net8.0/Grpc.Net.Common.dll
+/Users/willemmarda/CSE 325-Team07/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/willemmarda/CSE 325-Team07/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/willemmarda/CSE 325-Team07/bin/Debug/net8.0/System.CodeDom.dll
+/Users/willemmarda/CSE 325-Team07/bin/Debug/net8.0/System.Linq.Async.dll
+/Users/willemmarda/CSE 325-Team07/bin/Debug/net8.0/System.Management.dll
+/Users/willemmarda/CSE 325-Team07/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Management.dll
+/Users/willemmarda/CSE 325-Team07/obj/Debug/net8.0/Team07.csproj.AssemblyReference.cache
+/Users/willemmarda/CSE 325-Team07/obj/Debug/net8.0/Team07.csproj.Up2Date
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/bin/Debug/net8.0/appsettings.Development.json
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/bin/Debug/net8.0/appsettings.json
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/bin/Debug/net8.0/cse325-492f4-firebase-adminsdk-q4c0s-7156a52540.json
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/bin/Debug/net8.0/Team07.staticwebassets.runtime.json
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/bin/Debug/net8.0/Team07.exe
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/bin/Debug/net8.0/Team07.deps.json
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/bin/Debug/net8.0/Team07.runtimeconfig.json
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/bin/Debug/net8.0/Team07.dll
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/bin/Debug/net8.0/Team07.pdb
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/bin/Debug/net8.0/Google.Api.CommonProtos.dll
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/bin/Debug/net8.0/Google.Api.Gax.dll
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/bin/Debug/net8.0/Google.Api.Gax.Grpc.dll
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/bin/Debug/net8.0/Google.Apis.dll
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/bin/Debug/net8.0/Google.Apis.Auth.dll
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/bin/Debug/net8.0/Google.Apis.Core.dll
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/bin/Debug/net8.0/Google.Cloud.Firestore.dll
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/bin/Debug/net8.0/Google.Cloud.Firestore.V1.dll
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/bin/Debug/net8.0/Google.Cloud.Location.dll
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/bin/Debug/net8.0/Google.LongRunning.dll
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/bin/Debug/net8.0/Google.Protobuf.dll
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/bin/Debug/net8.0/Grpc.Auth.dll
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/bin/Debug/net8.0/Grpc.Core.Api.dll
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/bin/Debug/net8.0/Grpc.Net.Client.dll
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/bin/Debug/net8.0/Grpc.Net.Common.dll
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/bin/Debug/net8.0/Newtonsoft.Json.dll
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/bin/Debug/net8.0/System.CodeDom.dll
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/bin/Debug/net8.0/System.Linq.Async.dll
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/bin/Debug/net8.0/System.Management.dll
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Management.dll
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/obj/Debug/net8.0/Team07.csproj.AssemblyReference.cache
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/obj/Debug/net8.0/Team07.GeneratedMSBuildEditorConfig.editorconfig
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/obj/Debug/net8.0/Team07.AssemblyInfoInputs.cache
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/obj/Debug/net8.0/Team07.AssemblyInfo.cs
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/obj/Debug/net8.0/Team07.csproj.CoreCompileInputs.cache
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/obj/Debug/net8.0/Team07.MvcApplicationPartsAssemblyInfo.cache
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/obj/Debug/net8.0/Team07.sourcelink.json
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/obj/Debug/net8.0/staticwebassets.build.json
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/obj/Debug/net8.0/staticwebassets.development.json
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/obj/Debug/net8.0/staticwebassets/msbuild.Team07.Microsoft.AspNetCore.StaticWebAssets.props
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/obj/Debug/net8.0/staticwebassets/msbuild.build.Team07.props
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Team07.props
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Team07.props
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/obj/Debug/net8.0/staticwebassets.pack.json
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/obj/Debug/net8.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/obj/Debug/net8.0/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/obj/Debug/net8.0/scopedcss/bundle/Team07.styles.css
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/obj/Debug/net8.0/scopedcss/projectbundle/Team07.bundle.scp.css
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/obj/Debug/net8.0/Team07.csproj.Up2Date
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/obj/Debug/net8.0/Team07.dll
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/obj/Debug/net8.0/refint/Team07.dll
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/obj/Debug/net8.0/Team07.pdb
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/obj/Debug/net8.0/Team07.genruntimeconfig.cache
+c:/Users/Hatsumi/OneDrive/Crystal Cardenas/cse325-project/CSE 325-Team07/obj/Debug/net8.0/ref/Team07.dll
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/bin/Debug/net8.0/appsettings.json
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/bin/Debug/net8.0/cse325-492f4-firebase-adminsdk-q4c0s-7156a52540.json
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/bin/Debug/net8.0/Team07.staticwebassets.runtime.json
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/bin/Debug/net8.0/Team07.exe
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/bin/Debug/net8.0/Team07.deps.json
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/bin/Debug/net8.0/Team07.runtimeconfig.json
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/bin/Debug/net8.0/Team07.dll
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/bin/Debug/net8.0/Team07.pdb
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/bin/Debug/net8.0/Google.Api.CommonProtos.dll
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/bin/Debug/net8.0/Google.Api.Gax.dll
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/bin/Debug/net8.0/Google.Api.Gax.Grpc.dll
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/bin/Debug/net8.0/Google.Apis.dll
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/bin/Debug/net8.0/Google.Apis.Auth.dll
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/bin/Debug/net8.0/Google.Apis.Core.dll
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/bin/Debug/net8.0/Google.Cloud.Firestore.dll
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/bin/Debug/net8.0/Google.Cloud.Firestore.V1.dll
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/bin/Debug/net8.0/Google.Cloud.Location.dll
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/bin/Debug/net8.0/Google.LongRunning.dll
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/bin/Debug/net8.0/Google.Protobuf.dll
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/bin/Debug/net8.0/Grpc.Auth.dll
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/bin/Debug/net8.0/Grpc.Core.Api.dll
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/bin/Debug/net8.0/Grpc.Net.Client.dll
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/bin/Debug/net8.0/Grpc.Net.Common.dll
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/bin/Debug/net8.0/Newtonsoft.Json.dll
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/bin/Debug/net8.0/System.Linq.Async.dll
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/bin/Debug/net8.0/System.Management.dll
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Management.dll
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/obj/Debug/net8.0/Team07.csproj.AssemblyReference.cache
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/obj/Debug/net8.0/Team07.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/obj/Debug/net8.0/Team07.AssemblyInfoInputs.cache
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/obj/Debug/net8.0/Team07.AssemblyInfo.cs
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/obj/Debug/net8.0/Team07.csproj.CoreCompileInputs.cache
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/obj/Debug/net8.0/Team07.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/obj/Debug/net8.0/Team07.sourcelink.json
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/obj/Debug/net8.0/staticwebassets/msbuild.Team07.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/obj/Debug/net8.0/staticwebassets/msbuild.build.Team07.props
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Team07.props
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Team07.props
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/obj/Debug/net8.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/obj/Debug/net8.0/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/obj/Debug/net8.0/scopedcss/bundle/Team07.styles.css
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/obj/Debug/net8.0/scopedcss/projectbundle/Team07.bundle.scp.css
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/obj/Debug/net8.0/Team07.csproj.Up2Date
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/obj/Debug/net8.0/Team07.dll
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/obj/Debug/net8.0/refint/Team07.dll
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/obj/Debug/net8.0/Team07.pdb
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/obj/Debug/net8.0/Team07.genruntimeconfig.cache
+C:/Users/21jtu/Desktop/My Stuff/School/Dotnet/Team/Try3/CSE 325-Team07/obj/Debug/net8.0/ref/Team07.dll
+/Users/willemmarda/CSE 325-Team07/bin/Debug/net8.0/FirebaseAdmin.dll
+/Users/willemmarda/CSE 325-Team07/bin/Debug/net8.0/Google.Api.Gax.Rest.dll

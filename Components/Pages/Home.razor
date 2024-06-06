@@ -1,0 +1,154 @@
+﻿@page "/"
+@using Google.Cloud.Firestore;
+@using Team07
+@inject UserService UserService
+
+@rendermode InteractiveServer
+
+@inject NavigationManager NavigationManager
+
+@*Page Layout*@
+
+<PageTitle>Home</PageTitle>
+
+<h1>Find Recipes</h1>
+
+@* Render the recipes *@
+@* Display list of recipes from the database *@
+<div>
+    <ul class="recipe-cards">
+    @foreach (var recipe in recipes)
+    {
+        <li class="recipe">
+            @* <div class="recipe-img" style="background-image: url(@recipe.imageUrl);"></div> *@
+            <img src="@recipe.imageUrl" alt="@recipe.name image" />
+            <div class="recipe-info">
+            <h2 class="recipe-name">@recipe.name</h2>
+            @if (!string.IsNullOrEmpty(recipe.author))
+            {
+                <p class="recipe-author"><span style="text-transform: lowercase; font-style: italic;">by</span> @recipe.author</p>
+            }
+            <p class="recipe-date"><span style="font-style: italic;">posted on</span> @recipe.date.ToShortDateString()</p>
+            <p class="recipe-desc">@recipe.description</p>
+            <h3>Ingredients:</h3>
+            <ul class="recipe-ingredients">
+                @foreach (var ingredient in recipe.ingredients)
+                {
+                    <li class="ingredient">@ingredient</li>
+                }
+            </ul>
+            <h3>Instructions:</h3>
+            <p class="recipe-instructions">@recipe.instructions</p>
+            <NavLink href="@recipe.GetRecipeURL()">See Recipe</NavLink>
+            @* <button>See recipes</button> *@
+            <button class="btn btn-danger" @onclick="()=>DeleteRecipe(recipe.id)"> Delete Recipe</button>
+            </div>
+        </li>
+    }
+    </ul>
+</div>
+
+@* Correctly draw the recipes from the Firestore database *@
+@code 
+{
+
+    private string username;
+    public string recipeName { get; set; } = "a recipe";
+    FirestoreDb db = FirestoreDb.Create("cse325-492f4");
+    private IEnumerable<Recipe> recipes = Array.Empty<Recipe>();
+    private async Task refreshList()
+    {
+        CollectionReference collection = db.Collection("recipes");
+        QuerySnapshot snapshot = await collection.GetSnapshotAsync();
+
+        var recipeList = new List<Recipe>();
+
+        foreach(var recipe in snapshot.Documents) 
+        { 
+            recipeList.Add(new Recipe{
+                                        id = recipe.Id, 
+                                        name = recipe.GetValue<string>("name"), 
+                                        description = recipe.GetValue<string>("description"),
+                                        ingredients = recipe.GetValue<List<string>>("ingredients"),
+                                        instructions = recipe.GetValue<string>("instructions"),
+                                        author = recipe.GetValue<string>("author"),
+                                        date = recipe.GetValue<DateTime>("date"),
+                                        imageUrl = recipe.GetValue<string>("imageUrl")
+                                    }); 
+        }
+
+       recipes = recipeList.OrderBy(recipe => recipe.name).ToList();
+    }   
+
+    protected override async Task OnInitializedAsync()
+    {
+        await refreshList();
+        username = UserService.GetUsername();
+    }
+
+    private async Task DeleteRecipe(string id)
+    {
+        DocumentReference docref = db.Document("recipes/" + id);
+        await docref.DeleteAsync();
+        await refreshList();
+    }
+
+    @* public void SeeRecipe(string name)
+    {
+        NavigationManager.NavigateTo("seerecipe", true, )
+    } *@
+}
+
+@* Styles *@
+
+<HeadContent>
+    <style>
+
+        .recipe-cards {
+            list-style: none;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+        }
+        .recipe {
+            /* background-color: rgb(248, 241, 230); */
+            /* border-radius: 10px; */
+            border: 2px solid #d4d2d2;
+            box-shadow: -2px 0px 20px 1px #d4d2d2 inset
+        }
+        .recipe img {
+            width: 100%;
+        }
+        .recipe-img {
+            /* background-image: url("https://cdn.glitch.global/06adb1ca-721c-4604-bab7-b33cd8acd379/iimg-placeholder.jpg?v=1717002960951"); */
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+            /* width: 100%; */
+            height: 300px;
+        }
+        .recipe-info {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 10px;
+        }
+        .recipe-info > * {
+            display: block;
+            padding-top: 5px;
+        }
+        .recipe-name {
+            font-weight: bold;
+            text-transform: capitalize;
+            font-family: sans-serif;
+        }
+        .recipe-author {
+            font-style: italic;
+            text-transform: capitalize;
+        }
+        .recipe-date {
+            font-style: italic;
+        }
+
+    </style>
+</HeadContent>

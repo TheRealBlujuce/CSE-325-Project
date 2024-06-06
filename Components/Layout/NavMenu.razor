@@ -1,0 +1,109 @@
+﻿@rendermode InteractiveServer
+@inject UserService UserService
+
+<div class="top-row ps-3 navbar navbar-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" href=""></a>
+        @if (!isLoggedIn)
+        {
+            <button class="btn btn-primary" @onclick="ShowLoginModal" style="width: 128px;">Sign In</button>
+        }
+        else
+        {
+            <button class="btn btn-danger" @onclick="LogOut" style="width: 128px;">Sign Out</button>
+        }
+    </div>
+</div>
+
+@if (isLoggedIn == true && UserService.GetUsername() != null)
+{ 
+    <h1 style="padding: 32px;">Hello @UserService.GetUsername(), Welcome Back!</h1> 
+}
+else
+{
+    <h1 style="padding: 32px;">Welcome!</h1>
+}
+
+<div class="nav-scrollable" style="padding-left: 16px;">
+    <nav class="row">
+        <div class="col-auto">
+            <div class="nav-item px-3">
+                <NavLink class="btn btn-primary" href="" style="width: 128px;">
+                    <span aria-hidden="true"></span> Home
+                </NavLink>
+            </div>
+        </div>
+
+        @if (isLoggedIn)
+        {
+            <div class="col-auto" style="margin-left: 6px;">
+                <div class="nav-item px-3">
+                    <NavLink class="btn btn-primary" href="add-recipe" style="width: 128px;">
+                        <span aria-hidden="true"></span> Add Recipe
+                    </NavLink>
+                </div>
+            </div>
+        }
+    </nav>
+</div>
+
+
+
+<!-- Login Modal -->
+<div class="modal fade @((showLoginModal ? "show" : ""))" tabindex="-1" style="display:@((showLoginModal ? "block" : "none"))">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Login</h5>
+                <button type="button" class="btn-close" @onclick="CloseLoginModal"></button>
+            </div>
+            <div class="modal-body">
+                <div class="mb-3">
+                    <label for="username" class="form-label">Username</label>
+                    <input type="text" class="form-control" id="username" @bind="username">
+                </div>
+                <div class="mb-3">
+                    <label for="password" class="form-label">Password</label>
+                    <input type="password" class="form-control" id="password" @bind="password">
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" @onclick="CloseLoginModal">Close</button>
+                <button type="button" class="btn btn-primary" @onclick="Login">Log In</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@code {
+    private bool isLoggedIn = false;
+    private bool showLoginModal = false;
+    private string username;
+    private string password;
+
+    private void ShowLoginModal()
+    {
+        showLoginModal = true;
+    }
+
+    private void CloseLoginModal()
+    {
+        showLoginModal = false;
+    }
+
+    private void Login()
+    {
+        if (!string.IsNullOrEmpty(username) && !string.IsNullOrEmpty(password))
+        {
+            isLoggedIn = true;
+            showLoginModal = false;
+            
+            UserService.SetUsername(username); // Set the username in the service
+        }
+    }
+
+    private void LogOut()
+    {
+        isLoggedIn = false;
+    }
+}

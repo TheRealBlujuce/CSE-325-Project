@@ -1,0 +1,89 @@
+@page "/add-recipe"
+@using Google.Cloud.Firestore
+@using System.ComponentModel.DataAnnotations
+@rendermode InteractiveServer
+
+<h3>Add Recipe</h3>
+
+<h4>@uploadSuccess</h4>
+
+<EditForm Model="@newRecipe" OnValidSubmit="@AddNewRecipe" FormName="AddNewRecipeForm">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div>
+        <label for="name">Recipe Name:</label>
+        <input id="name" @bind="newRecipe.name" class="form-control" />
+    </div>
+    <div>
+        <label for="description">Description:</label>
+        <InputTextArea id="description" @bind-Value="newRecipe.description" class="form-control" />
+    </div>
+    <div>
+        <label for="ingredients">Ingredients (comma separated):</label>
+        <InputText id="ingredients" @bind-Value="ingredientsInput" class="form-control" />
+    </div>
+    <div>
+        <label for="instructions">Instructions:</label>
+        <InputTextArea id="instructions" @bind-Value="newRecipe.instructions" class="form-control" />
+    </div>
+    <div>
+        <label for="author">Author:</label>
+        <InputText id="author" @bind-Value="newRecipe.author" class="form-control" />
+    </div>
+    <div>
+        <label for="date">Date:</label>
+        <InputDate id="date" @bind-Value="newRecipe.date" class="form-control" />
+    </div>
+    <div>
+        <label for="imageUrl">Image URL:</label>
+        <InputText id="imageUrl" @bind-Value="newRecipe.imageUrl" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Add Recipe</button>
+</EditForm>
+
+
+
+@code {
+    private FirestoreDb db = FirestoreDb.Create("cse325-492f4");
+    private Recipe newRecipe = new Recipe
+    {
+        ingredients = new List<string>()
+    };
+    
+    public string ingredientsInput = "";
+    public string uploadSuccess = "";
+
+    private async Task AddNewRecipe()
+    {
+        bool success = false;
+        Console.WriteLine(newRecipe);
+        if(newRecipe == null) { Console.WriteLine("There is no new recipe!"); }
+        newRecipe.ingredients = ingredientsInput.Split(',').Select(i => i.Trim()).ToList();
+        newRecipe.date = DateTime.Now;
+        
+        CollectionReference recipeCollection = db.Collection("recipes");
+        try{
+        await recipeCollection.AddAsync(new {
+                                            name = newRecipe.name, 
+                                            description = newRecipe.description, 
+                                            ingredients = newRecipe.ingredients,
+                                            instructions = newRecipe.instructions,
+                                            author = newRecipe.author,
+                                            date = newRecipe.date.ToUniversalTime(),
+                                            imageUrl = newRecipe.imageUrl
+                                            }
+                                        );
+        success = true;
+        uploadSuccess = "Upload was Succesfull!";
+        }catch { success = false; uploadSuccess = "Upload Failed!"; }
+        
+    }
+
+    private int currentCount = 0;
+
+    private void IncrementCount()
+    {
+        currentCount++;
+    }
+}
